@@ -4,7 +4,7 @@ Component Name: Legal Data
 Description: Provides four shortcodes to display legal informations throughout your website (i.e. name, address, mail, tel )
 Category: Utilities
 Tags: Legal, Address, Company, Tel, Info
-Version: 1.0
+Version: 1.0.0
 Author: WAGA Team <dev@waga.it>
 Author URI: http://www.waga.it
  */
